@@ -13,11 +13,6 @@
 **Библиотеки и модули**<br>
 pandas, numpy, os, matplotlib, statsmodels, sklearn
 
-from statsmodels.tsa.seasonal import seasonal_decompose
-from statsmodels.tsa.stattools import adfuller
-from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
-from statsmodels.iolib.table import SimpleTable
-
 **Модели**<br>
 RandomForestRegressor, lightgbm, SARIMAX
 
