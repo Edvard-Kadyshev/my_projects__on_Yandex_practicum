@@ -14,5 +14,12 @@
 скорость предсказания;<br>
 время обучения.
 
-## Используемые библиотеки
-pandas, numpy
+## Используемые инструмменты
+**Библиотеки и модули**<br>
+pandas, numpy, os, time, matplotlib, seaborn, sklearn
+
+**Модели**<br>
+linear_model, RandomForestRegressor, GradientBoostingRegressor, lightgbm
+
+**Метрики**<br>
+mean_squared_error, r2_score
