@@ -19,3 +19,5 @@ LogisticRegression, RandomForestClassifier, DecisionTreeClassifier
 
 **Метрики**<br>
 accuracy_score
+
+### Статус проекта: Завершен.
