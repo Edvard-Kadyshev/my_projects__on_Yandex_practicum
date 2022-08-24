@@ -20,3 +20,4 @@ LinearRegression, RandomForestRegressor, GradientBoostingClassifier
 **Метрики**<br>
 mean_squared_error, mean_absolute_error, собственная метрика.
 
+### Статус проекта: Завершен.
