@@ -17,4 +17,4 @@ pandas, numpy, os, matplotlib, statsmodels, sklearn
 RandomForestRegressor, lightgbm, SARIMAX
 
 **Метрики**<br>
-mean_squared_error
+mean_squared_error 
