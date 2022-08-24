@@ -26,3 +26,4 @@ LinearRegression.
 **Метрики**<br>
 mean_squared_error
 
+### Статус проекта: Завершен.
