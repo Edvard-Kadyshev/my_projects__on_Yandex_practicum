@@ -20,3 +20,5 @@ LogisticRegression, RandomForestClassifier, GradientBoostingClassifier
 
 **Метрики**<br>
 precision_score, recall_score, f1_score, roc_auc_score
+
+### Статус проекта: Завершен.
